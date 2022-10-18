@@ -31,5 +31,8 @@ A simple Android app to find online recipe. With this app you can:
 * [Jetpack-Navigation](https://developer.android.com/guide/navigation/navigation-getting-started)
 * [Room Persistence Library](https://developer.android.com/training/data-storage/room)
 
+## API
+* [Edamam Recipe Finder](https://developer.edamam.com/edamam-recipe-api)
+
 ## App Architecture
 * MVVM
