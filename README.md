@@ -14,6 +14,9 @@ A simple Android app to find online recipe. With this app you can:
 <img src="images/home_light.jpeg" alt="home_light" width="200"> <img src="images/home_dark.jpeg" alt="home_dark" width="200"> </br> 
 <img src="images/search_light.jpeg" alt="search_light" width="200"> <img src="images/search_dark.jpeg" alt="search_dark" width="200">
 
+### Navigation Drawer
+<img src="images/navigation_light.jpeg" alt="navigation_light" width="200"> <img src="images/navigation_dark.jpeg" alt="navigation_dark" width="200">
+
 ### Saved Recipes
 <img src="images/saved_light.jpeg" alt="saved_light" width="200"> <img src="images/saved_dark.jpeg" alt="saved_dark" width="200">
 
